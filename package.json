@@ -1,0 +1,22 @@
+{
+  "name": "leetcode-solving",
+  "version": "1.0.0",
+  "description": "My solutions on leetcode problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSyzov/leetcode-solving.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "Sam Syzov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamSyzov/leetcode-solving/issues"
+  },
+  "homepage": "https://github.com/SamSyzov/leetcode-solving#readme"
+}
